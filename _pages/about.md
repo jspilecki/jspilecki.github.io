@@ -7,21 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-jspilecki (at) berkeley (dot) edu
 
-I am a PhD student at UC Berkeley, advised by [John Wright](https://people.eecs.berkeley.edu/~jswright/). I am broadly interested in quantum information and computation. Before Berkeley, I studied physics and mathematics at MIT.
+I am a PhD student at UC Berkeley, advised by [John Wright](https://people.eecs.berkeley.edu/~jswright/), and broadly interested in quantum information and computation. Before Berkeley, I studied physics and mathematics at MIT.
+
+Email: jspilecki (at) berkeley (dot) edu
+
+Test
 
 Papers
 ------
 - [Mixed state tomography reduces to pure state tomography](https://arxiv.org/abs/2511.15806)
-  Angelos Pelecanos, Jack Spilecki, Ewin Tang, John Wright
-  Manuscript
+  <br>Angelos Pelecanos, Jack Spilecki, Ewin Tang, John Wright
+  <br>Manuscript
 - [Optimal lower bounds for quantum state tomography](https://arxiv.org/abs/2510.07699)
-  Thilo Scharnhorst, Jack Spilecki, John Wright
-  QIP 2026
+  <br>Thilo Scharnhorst, Jack Spilecki, John Wright
+  <br>QIP 2026
 - [The debiased Keyl's algorithm: a new unbiased estimator for full state tomography](https://arxiv.org/abs/2510.07788)
-  Angelos Pelecanos, Jack Spilecki, John Wright
-  QIP 2026
+  <br>Angelos Pelecanos, Jack Spilecki, John Wright
+  <br>QIP 2026
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
