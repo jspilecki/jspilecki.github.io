@@ -10,8 +10,6 @@ redirect_from:
 
 I am a PhD student at UC Berkeley, advised by [John Wright](https://people.eecs.berkeley.edu/~jswright/), and broadly interested in quantum information and computation. Before Berkeley, I studied physics and mathematics at MIT.
 
-Email: jspilecki (at) berkeley (dot) edu
-
 Papers
 ------
 - [Mixed state tomography reduces to pure state tomography](https://arxiv.org/abs/2511.15806)
